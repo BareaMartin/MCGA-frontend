@@ -5,7 +5,7 @@ import styles from './login.module.css';
 const Login = () => {
   return (
     <div className={styles.container}>
-      <div>Asd</div>
+      <div>Logon</div>
       <Link text={'Ingresar'} to={'/products'}  />
     </div>
   );
